@@ -1,8 +1,6 @@
 void main() {
   Pessoa pessoa1 = Pessoa('Victor', 25, '11111-1111');
   pessoa1.apresenta();
-
-  Pessoa pessoa2 = Pessoa('Amanda', 22, '22222-2222');
 }
 
 class Pessoa {
